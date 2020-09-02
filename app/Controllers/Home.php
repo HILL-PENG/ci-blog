@@ -8,5 +8,8 @@ class Home extends BaseController
 	}
 
 	//--------------------------------------------------------------------
-
+	public function helloWorld(){
+		$db = db_connect();
+		echo $db;
+	}
 }

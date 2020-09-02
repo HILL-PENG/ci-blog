@@ -49,11 +49,12 @@
 # DATABASE
 #--------------------------------------------------------------------
 
-# database.default.hostname = localhost
-# database.default.database = ci4
-# database.default.username = root
-# database.default.password = root
-# database.default.DBDriver = MySQLi
+#database.default.hostname = 'localhost'
+#database.default.database = 'ci-blog'
+#database.default.username = 'root'
+#database.default.password = 'root'
+#database.default.DBDriver = 'MySQLi'
+#database.default.DBPrefix = 'ciblog_'
 
 # database.tests.hostname = localhost
 # database.tests.database = ci4
