@@ -127,5 +127,5 @@ nb-configuration.xml
 /.phpunit.*.cache
 
 #git
-key.txt
-key.txt.pub
+id_rsa
+id_rsa.pub
